@@ -1,10 +1,10 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
+title: 아기상어의 블로그
+tagline: '초보개발자의 성장 블로그'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: http://girafaa.github.io
-logo: '/public/logo.png'
+logo: '/public/아기상어로고.png'
 
 # Site configurations
 gems:
@@ -24,9 +24,9 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar:  # md5 hash of your email address
+  name: 아기상어
+  description: 웃을때 상어를 닮은 <strong>개발자</strong>입니다. 쉬운 것 것부터 천천히 배워갑니다.
+  gravatar:  # md5 hash of your email address 메뉴에 프로필사진
   contact:
     github:    https://github.com/girafaa/girafaa.github.io
     email:     
@@ -47,8 +47,8 @@ nav:
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
-hero:
-  image: /public/img/we_will_be_giants_by_yalestewart.jpg
+hero: #메인화면 정의인듯
+  image: /public/img/we_will_be_giants_by_yalestewart.jpg  #메인화면 사진
   caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
 # Puglins
