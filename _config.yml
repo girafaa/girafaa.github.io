@@ -25,11 +25,11 @@ version: 1.0.0
 # About/contact
 author:
   name: Codinfox
-  description: 상어닮은 <strong>개발자</strong>, 배우고 또 배우자.
-  gravatar: # md5 hash of your email address
+  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  gravatar:  # md5 hash of your email address
   contact:
     github:    https://github.com/girafaa/girafaa.github.io
-    email:     pablo00@naver.com
+    email:     
 # Navigation (2nd level links supported)
 nav:
   Home:           
@@ -41,14 +41,14 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'https://github.com/girafaa/girafaa.github.io'
+    - 'http://codinfox.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: 
+  image: /public/img/we_will_be_giants_by_yalestewart.jpg
   caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
 # Puglins
