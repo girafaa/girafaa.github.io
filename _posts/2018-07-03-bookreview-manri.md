@@ -2,7 +2,7 @@
 layout: post
 title:  "정글만리1권 후기"
 date:   2018-07-03 11:21:00 +0900
-categories: 
+categories: 도서리뷰
 ---
 
 
