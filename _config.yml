@@ -1,6 +1,6 @@
 # Site Info
-title: 아기상어의 블로그
-tagline: '아기상어의 블로그'
+title: 게발상어의 블로그
+tagline: '게발상어의 블로그'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: http://girafaa.github.io
@@ -25,7 +25,7 @@ version: 1.0.0
 # About/contact
 author:
   name: 아기상어
-  description: 웃을때 상어를 닮은 <strong>개발자</strong>입니다. 쉬운 것 것부터 천천히 배워갑니다.
+  description: 상어닮은 <strong>개발자</strong>입니다. 기초부터 탄탄히!
   gravatar:  # md5 hash of your email address 메뉴에 프로필사진
   contact:
     github:    https://github.com/girafaa/girafaa.github.io
