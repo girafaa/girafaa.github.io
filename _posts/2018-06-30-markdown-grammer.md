@@ -2,7 +2,7 @@
 layout: post
 title:  "간단하게 쓰는 마크다운 문법"
 date:   2018-07-01 12:04:00 +0900
-categories: jekyll update
+categories: 블로그만들기
 ---
 
 
