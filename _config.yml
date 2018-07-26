@@ -40,7 +40,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'https://github.com/girafaa/girafaa.github.io'
+    - 'https://github.com/girafaa'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
