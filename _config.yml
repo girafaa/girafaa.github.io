@@ -24,7 +24,7 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: 아기상어
+  name: 개미개미
   description: 초보<strong>개발자</strong> 블로그입니다. 누구보다 쉽게. 기초부터 배우자.
   gravatar:  # md5 hash of your email address 메뉴에 프로필사진
   contact:
@@ -32,15 +32,19 @@ author:
     email:     
 # Navigation (2nd level links supported)
 nav:
-  Home:           
+  홈으로:           
     - '/'
-  Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-  About:          
-    - '/about/'
-  Github Project: 
+  게시글:         
+    - '/blog/categories/'  
+  깃허브 프로젝트: 
     - 'https://github.com/girafaa'
+#  Blog:           
+#    - '/blog/'
+#    - { Categories: '/blog/categories/' }
+#  About:          
+#    - '/about/'
+#  Github Project: 
+#    - 'https://github.com/girafaa'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
